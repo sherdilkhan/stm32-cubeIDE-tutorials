@@ -1,4 +1,4 @@
-# stm32_cubeIDE_tutorials
+# stm32-cubeIDE-tutorials
 Basic demo examples:
 GPIO (LED Blin)
 GPIO (Push Button Read and Write)
