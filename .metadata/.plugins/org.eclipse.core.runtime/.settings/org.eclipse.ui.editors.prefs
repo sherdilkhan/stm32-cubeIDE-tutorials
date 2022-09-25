@@ -1,4 +1,8 @@
+AbstractTextEditor.Color.Background=28,31,34
 AbstractTextEditor.Color.Background.SystemDefault=false
 AbstractTextEditor.Color.SelectionBackground.SystemDefault=false
 AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
 eclipse.preferences.version=1
+org.eclipse.cdt.ui.occurrenceIndicationColor=0,94,187
+org.eclipse.cdt.ui.overrideIndicatorColor=0,94,187
+org.eclipse.cdt.ui.writeOccurrenceIndicationColor=0,94,187
