@@ -1,2 +1,2 @@
 # stm32_cubeIDE_tutorials
-Basic demos
+Basic functions demos including
