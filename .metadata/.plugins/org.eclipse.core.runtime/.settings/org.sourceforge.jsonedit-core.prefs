@@ -1,6 +1,6 @@
-colorDefault=246,243,232
-colorNull=246,243,232
-colorString=149,228,84
-colorValue=202,230,130
+colorDefault=216,216,216
+colorNull=216,216,216
+colorString=255,198,0
+colorValue=190,214,255
 eclipse.preferences.version=1
 overriddenByCSS=,colorNull,colorDefault,colorValue,colorString,
