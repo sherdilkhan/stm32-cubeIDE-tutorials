@@ -1,5 +1,5 @@
 # stm32_cubeIDE_tutorials
-Basic demos examples:
+Basic demo examples:
 GPIO (LED Blin)
 GPIO (Push Button Read and Write)
 ADC  (Single Mode)
